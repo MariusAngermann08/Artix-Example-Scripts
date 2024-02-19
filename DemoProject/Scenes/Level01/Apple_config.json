@@ -1,0 +1,1 @@
+{"position": [203, 232], "scale": [55, 75], "PhysicsObject": [true, "1", 100, "dynamic", "box"], "img_texture": "apple.png", "scripts": ["bg_color_1.py", "AppleController.py", "CameraFollow.py"]}

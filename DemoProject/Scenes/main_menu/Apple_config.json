@@ -1,0 +1,1 @@
+{"position": [356, 441], "scale": [55, 75], "PhysicsObject": [true, "1", 100, "dynamic", "box"], "img_texture": "apple.png", "scripts": ["IdleScript.py", "bg_color_1.py"]}

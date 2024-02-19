@@ -1,0 +1,1 @@
+{"position": [200, 21], "scale": [400, 100], "PhysicsObject": [false, "1", 100, "dynamic", "box"], "img_texture": "label.png", "scripts": ["label_animation.py"]}

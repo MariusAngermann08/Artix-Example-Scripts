@@ -1,0 +1,1 @@
+{"position": [-300, 50], "scale": [200, 250], "PhysicsObject": [false, "1", 100, "dynamic", "box"], "img_texture": "cloud.png", "scripts": ["CloudSpawn.py"]}
